@@ -1,4 +1,4 @@
-# Skill-learn-collect
+# Learn-Collect
 收集在学习和提高技术过程中遇到的比较有价值的网站、文档、Blog等，方便自己查阅。
 
 
@@ -19,6 +19,7 @@
 ###### [一篇文章教会你Event loop——浏览器和Node](https://segmentfault.com/a/1190000013861128)
 ###### [js事件循环机制(浏览器端Event Loop) 以及async/await的理解](https://segmentfault.com/a/1190000017554062)
 ###### [从event loop到async await来了解事件循环机制](https://juejin.im/post/5c148ec8e51d4576e83fd836)
+###### [史上最最最详细的手写Promise教程](https://8jsj.cn/?p=293)
 
 ---
 [:arrow_up:](#tags) : 点击回到Tags
