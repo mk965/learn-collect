@@ -3,7 +3,7 @@
  * @LastEditors: Mencre
  * @email: mencre@163.com
  * @Date: 2020-02-28 10:16:05
- * @LastEditTime: 2020-08-13 09:09:15
+ * @LastEditTime: 2020-08-27 10:24:00
  * @Description: Learn-Collect
 -->
 # Learn-Collect
@@ -30,9 +30,13 @@
 ###### [史上最最最详细的手写Promise教程](https://8jsj.cn/?p=293)
 ###### [只要一行代码，实现五种 CSS 经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html)
 ###### [CSS Grid 网格布局教程](http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
+###### [JavaScript常见的六种继承方式](https://segmentfault.com/a/1190000016708006)
+
+###### [深入理解JavaScript的闭包特性 如何给循环中的对象添加事件](https://blog.csdn.net/gaoshanwudi/article/details/7355794)
 
 ---
 [:arrow_up:](#tags) : 点击回到Tags
+
 <h3 id='image'>图像处理</h3>
 
 ###### [此人不存在](https:/thispersondoesnotexist.com/)(无肖像权人脸)
@@ -60,6 +64,7 @@
 [:arrow_up:](#tags) : 点击回到Tags
 <h3 id="tools">工具站</h3>
 
+###### [Smallpdf](https://smallpdf.com/)(免费PDF转换网站，可转Word、PPT等，支持合并分割pdf)
 ###### [地图生成器](http://datav.aliyun.com/tools/atlas/)(可导入PPT)
 ###### [Flourish](https://flourish.studio/)(在线制作可视化数据)
 ###### [白描网页版](https://web.baimiaoapp.com/)(可以提取照片文字)
