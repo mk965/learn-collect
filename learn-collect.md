@@ -3,7 +3,7 @@
  * @LastEditors: Mencre
  * @email: mencre@163.com
  * @Date: 2020-02-28 10:16:05
- * @LastEditTime: 2020-08-27 10:24:00
+ * @LastEditTime: 2020年11月16日 22:24:03
  * @Description: Learn-Collect
 -->
 # Learn-Collect
@@ -33,6 +33,24 @@
 ###### [JavaScript常见的六种继承方式](https://segmentfault.com/a/1190000016708006)
 
 ###### [深入理解JavaScript的闭包特性 如何给循环中的对象添加事件](https://blog.csdn.net/gaoshanwudi/article/details/7355794)
+
+###### [Vue3.0来袭，你想学的都在这里（一）](https://juejin.im/post/6869521076771094536)
+
+###### [Vue3.0来袭，你想学的都在这里（二）](https://juejin.im/post/6872113750636232712)
+
+###### [2020 年前端分类推荐书单【结合思维导图】](https://juejin.im/post/6889780734324637703)
+
+###### [前端菜鸟让接口提速60%的优化技巧](https://juejin.im/post/6893286451711049742)
+
+###### [前端性能优化 24 条建议（2020）](https://juejin.im/post/6892994632968306702)
+
+###### [Flutter教程(一) Flutter简介](https://juejin.im/post/6844903592587952142)
+
+###### [前端安全知多少](https://juejin.im/post/6893320971462279175)
+
+###### [十五分钟读懂React 17](https://juejin.im/post/6894204813970997256)
+
+###### [Vue 3 源码导读](https://juejin.im/post/6844903957421096967)
 
 ---
 [:arrow_up:](#tags) : 点击回到Tags
